@@ -67,3 +67,4 @@ awal:
         printf("Input tidak valid, Anda Telah Keluar Dari Aplikasi\n");
     }
     return 0;
+}
